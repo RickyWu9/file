@@ -1,6 +1,6 @@
 version: '2'
 
- services:
+services:
 
    orderer.example.com:
      container_name: orderer.example.com
